@@ -1,0 +1,13 @@
+LIBRARY ninja
+EXPORTS
+    LdrInitializeThunk
+    __getmainargs
+    malloc
+    free
+    _onexit
+    exit
+    WriteConsoleA
+    ;heap
+    ;NtCreateUserProcess
+    ;NtReadFile
+    ;
